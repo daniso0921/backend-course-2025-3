@@ -1,4 +1,5 @@
-//s
+//s.
+//
 const { program } = require('commander'); 
 const fs = require('fs'); 
 
